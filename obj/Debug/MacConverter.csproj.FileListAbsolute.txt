@@ -1,0 +1,14 @@
+D:\Projects\C#\WPF\MacConverter\bin\Debug\MacConverter.exe.config
+D:\Projects\C#\WPF\MacConverter\bin\Debug\MacConverter.exe
+D:\Projects\C#\WPF\MacConverter\bin\Debug\MacConverter.pdb
+D:\Projects\C#\WPF\MacConverter\obj\Debug\MacConverter.csprojAssemblyReference.cache
+D:\Projects\C#\WPF\MacConverter\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\WPF\MacConverter\obj\Debug\App.g.cs
+D:\Projects\C#\WPF\MacConverter\obj\Debug\MacConverter_MarkupCompile.cache
+D:\Projects\C#\WPF\MacConverter\obj\Debug\MacConverter_MarkupCompile.lref
+D:\Projects\C#\WPF\MacConverter\obj\Debug\MainWindow.baml
+D:\Projects\C#\WPF\MacConverter\obj\Debug\MacConverter.g.resources
+D:\Projects\C#\WPF\MacConverter\obj\Debug\MacConverter.Properties.Resources.resources
+D:\Projects\C#\WPF\MacConverter\obj\Debug\MacConverter.csproj.GenerateResource.cache
+D:\Projects\C#\WPF\MacConverter\obj\Debug\MacConverter.exe
+D:\Projects\C#\WPF\MacConverter\obj\Debug\MacConverter.pdb
